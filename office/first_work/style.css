@@ -1,0 +1,68 @@
+.title{
+    font-family: "Rubik Mono One", monospace;
+    margin-left: 15px;
+    font-weight: 400px;
+}
+.title span{
+    color: #D7AB55;
+}
+
+/* image section */
+.images{
+    margin-top: -330px;
+    padding-left: 750px;
+}
+.image2{
+    margin-top: -345px;
+    padding-left: 1100px;
+}
+
+/* paragraph */
+.p1{
+    font-family: "Roboto", sans-serif;
+}
+
+/* border */
+.b1{
+    position: absolute; 
+    width: 60px; 
+    left: 625px; 
+    top: 350px; 
+    border: 1px solid #000000;
+}
+.b2{
+    position: absolute;
+    width: 100px;
+    left: 686px;
+    top: 350px;
+    border: 1px solid #D7AB55;
+}
+
+/* paragraph2 */
+.p2{
+    font-family: "Roboto", sans-serif;
+    position: absolute;
+    width: 240px;
+    height: 51px;
+    left: 488px;
+    top: 380px;
+    color: #727272;
+}
+
+/* table */
+.button{
+    box-sizing: border-box;
+    border: 1px solid #D7AB55;
+    background-color: #FFFFFF;
+    position: absolute;
+    text-align: center;
+    width: 109px;
+    height: 45px;
+    left: 620px;
+    top: 466px;
+}
+.button:hover{
+    background-color: #D7AB55;
+    color: #FFFFFF;
+}
+
